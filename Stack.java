@@ -1,5 +1,5 @@
 
-public class Stack <t>{
+public class Stack <t> implements Istack<t>{
     private node<t> lastNode;
     private node<t> firstNode;
 
