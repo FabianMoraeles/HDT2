@@ -4,7 +4,7 @@
 //   Nombre del programa: POSTFIX.JAVA
 //
 //   Fin en Mente:
-///Programa capaz de crear eventos
+///             Programa capaz por medio del uso de stacks una calculadora con el metodo postfix
 //   Programadores: Olivier Viau 23544
 //                  Fabian Morales 23267
 //
